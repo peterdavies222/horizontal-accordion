@@ -18,4 +18,19 @@ export default [
     body: "Candy carrot cake sugar plum brownie pie. Icing topping marshmallow pudding candy canes candy candy canes",
     image: img3,
   },
+  {
+    title: "Lorem ipsum",
+    body: "lorem ipsum dolor sit amet consolutor, lorem ipsum dolor sit amet consolutor.",
+    image: img1,
+  },
+  {
+    title: "Woofers ipsum",
+    body: "Doggo ipsum tungg yapper length boy you are doing me the shock",
+    image: img2,
+  },
+  {
+    title: "Snacky ipsum",
+    body: "Candy carrot cake sugar plum brownie pie. Icing topping marshmallow pudding candy canes candy candy canes",
+    image: img3,
+  },
 ];
